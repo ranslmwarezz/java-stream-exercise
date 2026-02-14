@@ -1,0 +1,13 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Build
+target/
+out/
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
