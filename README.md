@@ -6,4 +6,4 @@ Exercício prático desenvolvido durante o módulo de
 - Stream API
 - Programação funcional
 
-   Curso de Java do Nelio Alves (Udemy)
+  Curso de Java do Nelio Alves (Udemy)
